@@ -1,0 +1,14 @@
+GitHub Collaboration Lab
+
+Name: Rohita Sai
+Branch: feature-update
+
+This file was created to demonstrate the GitHub fork-and-pull-request workflow.
+
+Changes made:
+1. Created a new branch.
+2. Added a new file.
+3. Committed and pushed changes.
+4. Created a pull request.
+5. Merged the pull request into the main branch.
+Additional update made in feature-update branch for pull request demonstration.
